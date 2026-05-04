@@ -5,3 +5,4 @@
 || Carbon Footprint Navigator
 || Paytm UI Clone
 || AutoPortfolio
+|| Demand Forecasting And Optimisation
