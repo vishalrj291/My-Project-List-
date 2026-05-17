@@ -21,3 +21,5 @@ Live Demo: https://demand-and-forecasting-ml-project.onrender.com
 || Demand Forecasting And Optimisation
 
 i am takimg a vreak becuase of my exam
+
+Carbon footprint navigator
