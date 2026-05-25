@@ -1,8 +1,4 @@
-todo list 
-tanimal kart 
-portfolio 
-swiggy 
-basic to advance 
+
 
 # My-Project-List-
 From basic to advance 
@@ -24,12 +20,7 @@ Live Demo: https://demand-and-forecasting-ml-project.onrender.com
   ##
 || AutoPortfolio
   ##
-|| Demand Forecasting And Optimisation
+|| Demand Forecasting And  inventory Optimization
 
-todo list
 
-i am takimg a vreak becuase of my exam
 
-Carbon footprint navigator
-web development course
-finally exams are over 
