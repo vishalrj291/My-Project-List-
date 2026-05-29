@@ -1,6 +1,4 @@
-ai task manager 
-smart expense tracker 
-jarvis
+
 
 # My-Project-List-
 From basic to advance 
