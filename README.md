@@ -1,28 +1,7 @@
-Root on hope 
-ATTACK ON TITAN
+# PROJECT LIST 
+1. Digital doppelganger mentor
+2. Demand and Forecasting Optmization
+3. Autoportfolio
+4. Fintrack-Smart Expense Tracker
 
-# My-Project-List-
-From basic to advance 
-## 
-|| Digital doppelganger mentor
-Live Demo: https://demand-and-forecasting-ml-project.onrender.com
-## 
-|| Youtube UI Clone 
 
-   https://youtube-premium-ui-zoni.vercel.app
-   ##
-|| Sneaker Store
-  ##
-|| WhatsApp UI Clone 
-  ##
-|| Carbon Footprint Navigator
-  ##
-|| Paytm UI Clone
-  ##
-|| AutoPortfolio
-  ##
-|| Demand Forecasting And  inventory Optimization
-
-gym website 
-
-## Attack on Titan 
