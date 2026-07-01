@@ -5,5 +5,6 @@
 4. Fintrack-Smart Expense Tracker
 5. Roots Of Hope
 6. Attack on Titan
+7. Nota Speaks
 
 
