@@ -1,22 +1,23 @@
 # PROJECT LIST 
 1. Digital doppelganger mentor
-2. Demand and Forecasting Optmization
-3. Autoportfolio
-4. Fintrack-Smart Expense Tracker
-5. Roots Of Hope
-6. Attack on Titan
-7. Nota Speaks
-8. NOTA
-9. Ratnesh Ojha and Associates
-10. Fresh Mart
-11. Sneaker Shoes
-12. Carbon footprint navigator
-13. Aerothon-2026
-14. Layers
-15. Cafe Amore
-16. Carbon Navigator Footprint
-17. Carbaonops-AI
-18. ISRO HACK2SKILL
-19. Career Twin
+2. WhatsApp UI Clone
+3. Demand and Forecasting Optmization
+4. Autoportfolio
+5. Fintrack-Smart Expense Tracker
+6. Roots Of Hope
+7. Attack on Titan
+8. Nota Speaks
+9. NOTA
+10. Ratnesh Ojha and Associates
+11. Fresh Mart
+12. Sneaker Shoes
+13. Carbon footprint navigator
+14. Aerothon-2026
+15. Layers
+16. Cafe Amore
+17. Carbon Navigator Footprint
+18. Carbaonops-AI
+19. ISRO HACK2SKILL
+20. Career Twin
 
 
