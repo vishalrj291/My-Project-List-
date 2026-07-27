@@ -18,7 +18,6 @@
 17. Carbon Navigator Footprint
 18. Carbaonops-AI
 19. ISRO HACK2SKILL
-20. Career Twin
 21. sneaker store
 
 
