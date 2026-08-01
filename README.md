@@ -1,6 +1,6 @@
 # PROJECT LIST 
 1. Digital doppelganger mentor
-2. WhatsApp UI Clone
+
 3. Demand and Forecasting Optmization
 4. Autoportfolio
 5. Fintrack-Smart Expense Tracker
