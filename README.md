@@ -21,6 +21,5 @@
   
 22. Vishal Raj Portfolio
 23. Career Twin
-24. Paytm UI
 
 
