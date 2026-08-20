@@ -18,6 +18,7 @@
 17. Carbon Navigator Footprint
 18. Carbaonops-AI
 19. ISRO HACK2SKILL
+20. Lunar subsurface water detection
   
 22. Vishal Raj Portfolio
 23. Career Twin
