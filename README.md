@@ -25,3 +25,4 @@
 24. Attack on Titan
 25. dejaa neww
 26. MICRONYX
+27. Semicon
